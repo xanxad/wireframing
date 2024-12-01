@@ -51,3 +51,48 @@ Depicts interactive features such as buttons, forms, sliders, and other elements
 - **Example**: A login page wireframe may include placeholders for a username and password field, a "Login" button, and a "Forgot Password?" link.
 
 Each of these elements contributes to building a cohesive, functional, and user-centered design. By focusing on these key components, wireframes help ensure a seamless transition from concept to implementation.
+
+## Types of Wireframes
+
+Wireframes are categorized into two types: low-fidelity and high-fidelity. Each serves a unique purpose in the design process.
+
+### **Low-Fidelity Wireframes**
+
+Low-fidelity wireframes are simple sketches or outlines focusing on the basic structure and layout of the design. They use placeholders (e.g., rectangles for images and lines for text) to represent elements without detailed visuals.
+
+- **Features**:
+  - Black-and-white or grayscale designs.
+  - Focus on structure and functionality rather than appearance.
+  - Created quickly and used for brainstorming or initial discussions.
+- **When to Use**:
+  - At the start of the design process to brainstorm ideas.
+  - For early feedback from stakeholders or team members.
+- **Tools**: Pen and paper, whiteboards, or basic digital tools like Balsamiq.
+
+### **High-Fidelity Wireframes**
+
+High-fidelity wireframes are detailed and precise, resembling the final design closely. They include exact measurements, colors, fonts, and other visual details.
+
+- **Features**:
+  - Incorporates realistic content like actual text, images, and colors.
+  - Focuses on design aesthetics and user interaction details.
+  - Represents the near-final product for usability testing or client approval.
+- **When to Use**:
+  - Later in the design process when the structure and functionality are finalized.
+  - For testing user interactions or presenting to clients.
+- **Tools**: Figma, Adobe XD, or Sketch.
+
+---
+
+## What Type of Wireframe is This?
+
+The type of wireframe depends on its level of detail:
+
+- **Low-Fidelity**: If the wireframe is simple, uses placeholders for images or text, and avoids specific visual details.
+- **High-Fidelity**: If the wireframe is highly detailed, includes real content, and closely resembles the final design.
+
+For example, if you are reviewing a wireframe that includes exact colors, fonts, and interactive components, it is likely a **high-fidelity wireframe**. If it only outlines basic structure and functionality without visual details, it is a **low-fidelity wireframe**.
+
+---
+
+By understanding the differences between these wireframe types, designers can choose the most suitable approach for different stages of the design process.
